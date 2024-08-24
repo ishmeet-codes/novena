@@ -1,0 +1,165 @@
+.topbar {
+  background: #223a66;
+  color: white;
+  padding: 10px;
+}
+.navbar {
+  padding: 20px;
+  color: white;
+}
+.custom-nav .active .nav-link {
+  color: red !important;
+  color: black;
+}
+a:hover {
+  color: red !important;
+}
+.banner {
+  background-image: url("../images/products/doctor-temp.jpeg") ;
+  background-size: cover;
+  background-repeat: no-repeat !important;
+}
+.inner-banner {
+  color: #6f8ba4;
+}
+.inner-devider{
+  position: relative;
+}
+.button-appointment {
+  border: 1px solid red;
+  border-radius: 30px;
+  background-color: red;
+  color: white;
+  padding: 10px;
+  width: 30%;
+}
+.inner-devider:before {
+  content: '';
+  position: absolute;
+  top: -34px;
+  background: red;
+  height: 5px;
+  width: 40px;
+}
+.container-white{
+  background: white;
+  color: black;
+  border: 1px solid black;
+  width: 80%;
+  border-radius: 30px;
+  height: 60%;
+}
+.banner-block{
+  margin-top: 90px;
+  margin-bottom: 25%;
+}
+.card-style{
+  width: 20rem; 
+  height: 20rem; 
+  border-radius: 20px;
+}
+.card-style-inner{
+  margin-left: 10px; 
+  line-height: 20px;
+}
+.button-card{
+  border: 1px solid #223a66;
+  border-radius: 30px;
+  background-color: #223a66;
+  color: white;
+  padding: 10px;
+  width: 75%;
+  font-weight: 16%;
+  text-align: center;
+}
+.icon-color{
+  color: #223a66;
+  margin-bottom: 20px;
+}
+.appointment-text{
+  color: #223a66;
+  margin-bottom: 30px;
+}
+.services-text{
+  color: #6f8ba4;
+  margin-bottom: 20px;
+}
+.time{
+  color: #6f8ba4;
+}
+.card-container{
+  margin-top: -5%;
+}
+.happy-people-container{
+  background: #223a66;
+  width: 90%;
+  margin-top: 10%;
+}
+.text-h1{
+  font-size: 7vw;
+  font-weight: 3vw;
+  text-align: center;
+  margin-top: 45px;
+  color: white;
+  margin-left: 55%;
+}
+.typical{
+  font-size: 15px;
+  color: #6f8ba4;
+}
+.text-h5{
+  text-align: center;
+  color: #6f8ba4;
+  margin-top: -25px;
+  margin-left: 55%;
+  font-size: 16px;
+}
+.section-next-design{
+  background:  #f4f9fc;
+  text-align: center;
+  width: 100%;
+  padding: 10%;
+  box-sizing: content-box;
+  margin-top: 12%;
+}
+.section-h2{
+  color: #223a66;
+  font-size: 4vw;
+}
+.section-p{
+  color: #6f8ba4 !important;
+  margin-top: 5%;
+}
+.card2{
+  width: 20rem;
+  border-radius: 10px;
+}
+.icon-sec2{
+  color: red;
+  float: left;
+}
+.text-card-sec{
+  margin-top: 45px;
+}
+.row-2{
+  margin-top: 50px;
+}
+.sec3{
+  margin-top: 5%;
+}
+.imgdr{
+  float: left;
+}
+.cont-drk{
+  margin-top:-30%;
+}
+.form-fnt{
+  color: #223a66;
+  font-size: 3vw;
+  font-weight: 500;
+}
+.form-fnt2{
+  color: #6f8ba4;
+  text-align: justify;
+
+}
